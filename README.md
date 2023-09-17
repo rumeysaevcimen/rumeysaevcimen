@@ -12,5 +12,5 @@ become a competent "Data Scientist" in the future.
 
 Python | SQL | Django | Rest API | Micro Service | R | HTML | CSS | Postman | LaTeX
 
-### LinkedIn 🔗 <a href="www.linkedin.com/in/rumeysa-evcimen-0b92b9235">You can view my LinkedIn profile here!</a> 🐿️
+### LinkedIn 🔗 <a href="https://www.linkedin.com/in/rumeysa-evcimen-0b92b9235/">You can view my LinkedIn profile here!</a> 🐿️
 
