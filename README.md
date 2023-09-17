@@ -1,4 +1,4 @@
-## Hi, I'm Rümeysa 🌟 <a><img align="left" width="250" height="200 src="https://media.giphy.com/media/43HKwx3jV6kyQ/giphy.gif"></a>
+## Hi, I'm Rümeysa 🌟 <a><img align="left" width="240" height="195" src="https://media.giphy.com/media/43HKwx3jV6kyQ/giphy.gif"></a><br>
 📚 Math student at Hacettepe University<br>
 🚀 <br>
 ### Socials                  
