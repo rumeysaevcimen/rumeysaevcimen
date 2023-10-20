@@ -14,7 +14,7 @@ Currently, OutSystems Developer Intern at Northsoft.co
 
 ## Skills 📝
 
-Python | SQL | Django | Rest API | Micro Service | OOP | HTML | CSS | Postman | LaTeX
+Python | SQL | Django | Rest API | Micro Service | Java | HTML | CSS | Postman | LaTeX
 
 ### LinkedIn 🔗 <a href="https://www.linkedin.com/in/rumeysa-evcimen-0b92b9235/">You can view my LinkedIn profile here!</a> 🐿️
 
