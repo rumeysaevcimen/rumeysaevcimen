@@ -1,4 +1,4 @@
-<img align="right" width="30%" style="margin-bottom: 2em" src="https://media.giphy.com/media/43HKwx3jV6kyQ/giphy.gif">
+
 
 # Hi, I'm Rümeysa! 💙
 
