@@ -8,7 +8,7 @@ programming sector supported by my department and I
 am working to improve myself in this field. I aim to
 become a competent "Data Scientist" in the future.
 
-Currently, Software Developer Intern at Northsoft.co
+Currently, Software Developer at Northsoft.co
 
 
 
