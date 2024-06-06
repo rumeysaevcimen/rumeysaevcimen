@@ -7,9 +7,6 @@ Department of Mathematics. I am interested in the
 programming sector supported by my department and I
 am working to improve myself in this field. 
 
-Currently, Software Developer at Northsoft.co
-
-
 
 ## Skills 📝
 
